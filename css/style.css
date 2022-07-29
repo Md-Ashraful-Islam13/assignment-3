@@ -17,3 +17,6 @@
     transform: translateY(-50%);
     margin-bottom: 100px;
 }
+footer{
+    overflow: hidden;
+}
